@@ -1,7 +1,7 @@
 #ifndef FDRS_GLOBALS
 #define FDRS_GLOBALS
 #define GLOBAL_SSID "Your SSID"
-#define GLOBAL_PASS "Secret Password"
+#define GLOBAL_PASS "Even More Secret Password"
 #define GLOBAL_MQTT_ADDR "192.168.0.8"
 
 //#define GLOBAL_MQTT_AUTH   //uncomment to enable MQTT authentication 
